@@ -9,6 +9,6 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Button Content="Start Media Capture" HorizontalAlignment="Center" Margin="50,109,50,0" VerticalAlignment="Top" Width="260" FontFamily="Segoe UI Black" FontSize="24" FontWeight="Bold" Click="Button_Click"/>
-        
+        <Image x:Name="imageControl" Width="250" Height="250" />
     </Grid>
 </Page>
